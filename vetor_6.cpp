@@ -15,7 +15,7 @@ main(){
 	{
 		cout<<"Quantas pessoas serao inseridas (max 10)";
 		cin>>n;
-	}while(n>10);{
+	}while(n<=10);{
 		cout<<"Digite o ano atual: ";
 		cin>>at;
 	}
